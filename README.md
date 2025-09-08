@@ -23,7 +23,7 @@ Please note that the provided link is solely for demonstration purposes and is n
 Clone the repository to your local machine by running the following command inside your terminal/ command prompt.
 
 ```shell
-git clone "https://github.com/pundarikaksha7/AdobeRound-2.git"
+git clone "https://github.com/Kritarth200482/Resume-builder.git"
 ```
 
 
