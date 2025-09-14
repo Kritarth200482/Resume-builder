@@ -32,7 +32,7 @@ git clone "https://github.com/Kritarth200482/Resume-builder.git"
 
 For this project to run, node modules must be present inside your project directory.
 ```javascript
-"author": "Pundarikaksha",
+"author": "Kritarth",
   "license": "ISC",
   "dependencies": {
     "@adobe/pdfservices-node-sdk": "^3.4.0",
